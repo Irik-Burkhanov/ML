@@ -61,5 +61,3 @@ WALKING_DOWNSTAIRS – спуск с лестницы;
 SITTING – сидение;
 STANDING – стояние;
 LAYING – лежание;
-
-Использовал Jupyter Notebook.
